@@ -121,3 +121,10 @@ nav .container .navbar-brand {
 .skillcn {
   background-color: rgba(200,200,200,.5);
 }
+
+/*icon*/
+.gg-website {
+  display: inline-block;
+  color: #b1b2ff;
+  font-size: 50px;
+}
