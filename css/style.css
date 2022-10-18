@@ -123,8 +123,14 @@ nav .container .navbar-brand {
 }
 
 /*icon*/
-.gg-website {
-  display: inline-block;
-  color: #b1b2ff;
+.services i {
   font-size: 50px;
+  color: #b1b2ff;
+}
+
+.box .container {
+  background-image: linear-gradient(to right ,rgba(177, 178, 255,.6),rgba(177, 178, 255,.6)),url('../image/box.jpg') ;
+  background-position: center;
+  
+  
 }
